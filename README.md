@@ -1,25 +1,17 @@
-<!--
-**tavisca-nrajpurohit/tavisca-nrajpurohit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Neelesh Rajpurohit](https://user-images.githubusercontent.com/51902090/116875370-6eae6100-ac38-11eb-94f3-df706f4483f0.png)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# NEELESH SINGH RAJPUROHIT
+### About Me
 - 🔭 I’m currently working on ORXE3 DNA Architecture
 - 🌱 I’m currently learning on Angular
 - 💬 Ask me about ORxe3 CLI / DNA / Global Listener / Redux
 - 📫 How to reach me: nrajpurohit@tavisca.com
 - 😄 Pronouns: He/ Him / His
 - ⚡ Fun fact: I am meme artist
+
+<!-- Actual text -->
+
+You can find me on [LinkedIn](https://www.linkedin.com/in/neelesh-singh-rajpurohit-b3515287/)
 
 ### Languages
 
@@ -35,4 +27,5 @@ Here are some ideas to get you started:
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 
 ### GitHub stats
-![Neelesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=tavisca-nrajpurohit&count_private=true)
+![Neelesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=tavisca-nrajpurohit&hide=stars,issues,contribs&count_private=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tavisca-nrajpurohit&layout=compact)
