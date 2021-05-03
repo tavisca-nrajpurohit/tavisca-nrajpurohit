@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # NEELESH SINGH RAJPUROHIT
 - 🔭 I’m currently working on ORXE3 DNA Architecture
 - 🌱 I’m currently learning on Angular
-- 💬 Ask me about ORxe3 CLI / DNA / Global Listener
+- 💬 Ask me about ORxe3 CLI / DNA / Global Listener / Redux
 - 📫 How to reach me: nrajpurohit@tavisca.com
 - 😄 Pronouns: He/ Him / His
 - ⚡ Fun fact: I am meme artist
